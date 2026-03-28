@@ -21,17 +21,8 @@ Comparison of multiple classification algorithms on structured datasets.
 - Feature engineering and selection
 - Tools: Python, scikit-learn, Pandas, NumPy, Seaborn
 
-### 3. Data Analysis & Visualization
-Exploratory data analysis on real-world datasets.
-- Data cleaning and preprocessing
-- Statistical analysis
-- Visualization: histograms, heatmaps, scatter plots
-- Tools: Pandas, Matplotlib, Seaborn
-
 ## Tools & Libraries
-
 Python, scikit-learn, NLTK, TF-IDF, Pandas, NumPy, Matplotlib, Seaborn, GridSearchCV, Jupyter Notebook, Google Colab
 
-## About the Training
-
-Completed at IT Business Incubator, CUET — a structured program covering supervised learning, NLP pipelines, model evaluation, and real-world data projects.
+## Author
+Nakib Mahmud Tanim — [GitHub](https://github.com/tanimnakib52-lang)
